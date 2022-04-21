@@ -1,5 +1,5 @@
 const express = require('express');
-const pets = require('./modules/pets'));
+const pets = require('./modules/pets');
 const app = express();
 
 const port = 5001;
